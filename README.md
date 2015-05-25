@@ -1,4 +1,4 @@
-# Using Rust in Ruby
+# Using Rust in Ruby, Deployed to Heroku with Sinatra
 
 ## Setup & Compilation
 
