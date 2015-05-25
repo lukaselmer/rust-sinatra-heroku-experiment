@@ -6,6 +6,7 @@
 * Install bundler
 
 ```
+rbenv install
 bundle install
 (cd calculator && cargo build --release)
 ```
