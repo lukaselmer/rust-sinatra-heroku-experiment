@@ -1,0 +1,9 @@
+[package]
+name = "calculator"
+version = "0.1.0"
+authors = ["Lukas Elmer <lukas.elmer@gmail.com>"]
+
+[lib]
+name = "calculator"
+crate-type = ["dylib"]
+
