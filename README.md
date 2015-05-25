@@ -47,3 +47,9 @@ heroku open
 Remember to compile and commit libcalculator.so for linux before pushing to
 Heroku.
 
+## Demo
+
+It may take a while for heroku to start the VM (e.g. 30 seconds). Be patient.
+
+https://rocky-headland-3541.herokuapp.com/
+
